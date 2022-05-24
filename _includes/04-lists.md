@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# List of Random Fruit
+- Apple
+- Orange
+- Watermelon
+- Plum
